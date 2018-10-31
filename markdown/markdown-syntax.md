@@ -47,13 +47,13 @@ Markdown是一种可以使用普通文本编辑器编写的标记语言，通过
 ****
 
 ## 5.图片
-语法：\![图片alt\](图片地址 ''图片title'')
+语法：\![图片alt\](图片地址 "图片title")
 
 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。  
 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加。
 
 效果：  
-![图片示例](https://avatars2.githubusercontent.com/u/10473891?s=40&v=4 ''我的头像'')
+![图片示例](https://avatars2.githubusercontent.com/u/10473891?s=40&v=4 "我的头像")
 
 ## 6.超链接
 语法： [超链接名\](超链接地址 "超链接title")
@@ -61,8 +61,8 @@ Markdown是一种可以使用普通文本编辑器编写的标记语言，通过
 title可加可不加
 
 效果：  
-[github](http://github.com ''github是程序员的天堂'')  
-[百度](http://baidu.com ''内事不决问百度'')
+[github](http://github.com "github是程序员的天堂")  
+[百度](http://baidu.com "内事不决问百度")
 
 ## 7.列表
 1. 无序列表  
